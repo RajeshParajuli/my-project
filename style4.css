@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing:border-box;
+}
+
+
+
+#navbar{
+	width: 100%;
+	margin:0;
+	background-color: #DE3163;
+
+}
+a:hover{
+	background:blue ;
+}
+#blue{
+	background: blue;
+	color:white;
+}
+#blue ul,li,p{
+	margin-left: 70px;
+}
+#blue h3{
+	margin-left: 150px;
+}
+#blue a:hover{
+	background: red;
+}
+a:active{
+	color:white;
+}

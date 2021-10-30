@@ -1,0 +1,56 @@
+*{
+ margin:0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+
+
+#navbar{
+  width: 100%;
+  margin:0;
+  background-color: #DE3163;
+
+}
+a:hover{
+  background:blue ;
+}
+#blue{
+  background: blue;
+  color:white;
+}
+#blue ul,li,p{
+  margin-left: 70px;
+}
+#blue h3{
+  margin-left: 150px;
+}
+#blue a:hover{
+  background: red;
+}
+a:active{
+  color:white;
+}
+form{
+  max-width: 450px;
+  margin-top: 50px;
+height: 250px;
+  padding: 3px;
+  border: 3px solid black;
+  border-width: thin thick;
+  background-color: white;
+  padding: 5px;
+
+}
+form label{
+  color: black;
+  font-weight: bold;
+}
+body{
+  background-image: url("images/Rail3.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /
+}
